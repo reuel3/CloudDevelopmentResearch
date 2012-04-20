@@ -1,7 +1,7 @@
 common: &common
   adapter: activesalesforce
   url: https://www.salesforce.com
-  username: reuel3@gmail.com
+  username: reuel3
   password: 9a7s8m9arc89Ip7JgCeH6zqGlj5EtBUq4
   api_version: 20.0
 
