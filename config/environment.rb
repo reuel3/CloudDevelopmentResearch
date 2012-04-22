@@ -1,3 +1,8 @@
+Rails::Initializer.run do |config|    
+  #additional or existing configuration
+  config.gem "asf-soap-adapter",&nbsp;:lib => 'asf-soap-adapter'   
+end
+
 # Load the rails application
 require File.expand_path('../application', __FILE__)
 
