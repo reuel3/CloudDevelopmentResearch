@@ -20,3 +20,10 @@ production:
   database: db/production.sqlite3
   pool: 5
   timeout: 5000
+
+salesforce-default-realm:
+    adapter: activesalesforce
+    url: https://www.salesforce.com
+    username: reuel3@gmail.com
+    password: 9a7s8m9arc89Ip7JgCeH6zqGlj5EtBUq4
+    api_version: 20.0
